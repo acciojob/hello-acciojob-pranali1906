@@ -1,12 +1,14 @@
-.accio#job{
-	width: 150px;
+.Accio,#Job{
+	width:150px;
 	height:150px;
-	color: black;
+	background-color:black;
 }
+
 .hello-accio-job{
-	
+	color:white;
 	margin:left="32";
+	padding:10px;
 }
-}
+
 
 
